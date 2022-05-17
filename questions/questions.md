@@ -11,7 +11,20 @@ Sorry to give you the kind of feedback that I know you do not want to hear, but 
 Thanks,  
 Marissa  
 
+--
 
+*Response 1*:
+
+
+
+Hi Marissa, 
+
+Thank you for providing your feedback. I believe there isn't a direct method to delete multiple indices at the moment but you can write a script to loop through and delete the indices you want. 
+
+For further instructions, I have attached the document link here: https://www.algolia.com/doc/guides/sending-and-managing-data/manage-your-indices/how-to/delete-multiple-indices/#deleting-one-index
+
+Please let me know if you have any questions. 
+Thank you
   
 --
 
@@ -55,3 +68,16 @@ Hi, my website is not working and here's the error:
   
 Can you fix it please?  
 
+-----
+
+
+*Response 3*:
+
+Hi Marc, 
+
+Thank you for reaching out regards to the error. Could you double check if searchkit is part of algolia product? 
+
+Are you using react/elastic searhc? It might have been caused from react/elasticsearch according to quick google search.
+
+Please let me know if you have any questions. 
+Thank you
